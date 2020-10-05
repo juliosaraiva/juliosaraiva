@@ -1,10 +1,8 @@
 # Julio Saraiva
 
-Web Development
+I've been working as a fullstack developer since 2018. My stack is Vue.JS, JavaScript, Python, Django.
 
-Stack: [![VueJS](https://img.shields.io/badge/-Vue.JS-green)]|[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]|[![Python](https://img.shields.io/badge/-Python-yellow)]
-
-[![Linkedin Badge](https://img.shields.io/badge/-Julio%20Saraiva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojuliosaraiva/)](https://www.linkedin.com/in/ojuliosaraiva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojuliosaraiva)](https://www.linkedin.com/in/ojuliosaraiva)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=juliosaraiva&show_icons=true">
