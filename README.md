@@ -1,3 +1,9 @@
+# Julio Saraiva
+
+Web Development
+
+Stack: [![VueJS](https://img.shields.io/badge/-Vue.JS-green)]|[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]|[![Python](https://img.shields.io/badge/-Python-yellow)]
+
 [![Linkedin Badge](https://img.shields.io/badge/-Julio%20Saraiva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojuliosaraiva/)](https://www.linkedin.com/in/ojuliosaraiva/)
 
 
