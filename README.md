@@ -1,6 +1,6 @@
 # Julio Saraiva
 
-<p align="center">
+<p align="left">
   I've been working as a fullstack developer since 2018. My stack is Vue.JS, JavaScript, Python, Django.
 </p>
 
