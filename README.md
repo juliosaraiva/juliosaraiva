@@ -9,13 +9,13 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosaraiva&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="right"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=juliosaraiva&show_icons=true"
     />
