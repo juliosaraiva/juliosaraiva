@@ -10,14 +10,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="left"
-      height="160"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosaraiva&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="right"
-      height="160"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=juliosaraiva&show_icons=true"
     />
   </a>
