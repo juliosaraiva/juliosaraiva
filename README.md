@@ -6,33 +6,33 @@
 <p align="left">
   I've been working as a fullstack developer since 2018. I have experience with:
 </p>
-<p>
+<li>
 ✅ Node.JS / Express.JS
-</p>
-<p>
+</li>
+<li>
 ✅ Python
-</p>
-<p>
+</li>
+<li>
 ✅ Django
-</p>
-<p>
+</li>
+<li>
 ✅ Vue.JS / VueX / VueRouter
-</p>
-<p>
+</li>
+<li>
 ✅ Vuetify
-</p>
-<p>
+</li>
+<li>
 ✅ MongoDB
-</p>
-<p>
+</li>
+<li>
 ✅ PostgreSQL / MySQL
-</p>
-<p>
+</li>
+<li>
 ✅ AWS
-</p>
-<p>
+</li>
+<li>
 ✅ HTML / CSS / SASS
-</p>
+</li>
 
 
 <p align="center">
