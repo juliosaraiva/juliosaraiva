@@ -1,5 +1,8 @@
 # Julio Saraiva
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojuliosaraiva)](https://www.linkedin.com/in/ojuliosaraiva)
+
+
 <p align="left">
   I've been working as a fullstack developer since 2018. I have experience with:
 </p>
@@ -30,7 +33,7 @@
 <p>
 ✅ HTML / CSS / SASS
 </p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojuliosaraiva)](https://www.linkedin.com/in/ojuliosaraiva)
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
