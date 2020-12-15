@@ -1,7 +1,16 @@
 # Julio Saraiva
 
 <p align="left">
-  I've been working as a fullstack developer since 2018. My stack is Vue.JS, JavaScript, Python, Django.
+  I've been working as a fullstack developer since 2018. I have experience with:
+✅ Node.JS / Express.JS
+✅ Python
+✅ Django
+✅ Vue.JS / VueX / VueRouter
+✅ Vuetify
+✅ MongoDB
+✅ PostgreSQL / MySQL
+✅ AWS
+✅ HTML / CSS / SASS
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojuliosaraiva)](https://www.linkedin.com/in/ojuliosaraiva)
