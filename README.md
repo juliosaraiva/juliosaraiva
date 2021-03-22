@@ -4,22 +4,22 @@
 
 
 <p align="left">
-  I've been working as a fullstack developer since 2018. I have experience with:
+  I've been working as a DevOps Engineer 2015. I have experience with:
 </p>
 <li>
-✅ Node.JS / Express.JS
+✅ Terraform / CloudFormation
 </li>
 <li>
-✅ Python
+✅ AWS/GCP
 </li>
 <li>
-✅ Django
+✅ Python/Django
 </li>
 <li>
-✅ Vue.JS / VueX / VueRouter
+✅ Node.JS
 </li>
 <li>
-✅ Vuetify
+✅ Ansible
 </li>
 <li>
 ✅ MongoDB
@@ -28,10 +28,7 @@
 ✅ PostgreSQL / MySQL
 </li>
 <li>
-✅ AWS
-</li>
-<li>
-✅ HTML / CSS / SASS
+✅ Kubernetes / Docker
 </li>
 
 
