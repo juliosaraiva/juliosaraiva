@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  I've been working as a DevOps Engineer 2015. I have experience with:
+  I've been working as a DevOps Engineer since 2015. I have experience with:
 </p>
 <li>
 ✅ Terraform / CloudFormation
